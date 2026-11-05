@@ -34,3 +34,6 @@ python expense_tracker.py
 
 ## Author
 Nivetha
+## Project Output
+
+![Expense Tracker Output](expense-tracker-output.png)
